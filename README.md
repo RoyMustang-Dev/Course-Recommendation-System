@@ -20,3 +20,32 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+### Run Command
+
+```
+streamlit run app.py
+```
+.
+.
+.
+.
+### Getting started with the Project!!
+
+1. Import all the necessary libraries
+2. Import the Dataset
+3. Do all the necessary Data Cleaning and Standardization
+4. Start with TFIDF Vectorizer using Sigmoid function
+5. Extraxt Index, List & Enumerate, Sorted, Took the first Sig Score and Returned the corresponding Course Name
+6. Starting Bag of Words Memory Based Model 
+7. Used PorterStemmer of NLTK for Stemming the dataset
+8. After Stemming started CountVectorizer with CosineSimilarity function
+9. Repeated Step 5
+10. Finalized the Recommendations and Pickeled the same
+
+##  Note - these both approaches can be used to build any memory based recommendation system.
+.
+.
+.
+.
+# Enjoy the Recommendations
