@@ -1,0 +1,27 @@
+{
+  "name": "course-recommendation-system",
+  "version": "1.0.0",
+  "description": "1. [GithubAccount](https://github.com)\r 2. [HerokuAccount](https://heroku.com)\r 3. [VSCodeIDE](https://code.visualstudio.com/)\r 4. [GitCLI](https://git-scm.com/downloads)\r 5. [AnacondaPackage/JupyterNoteBook](https://www.anaconda.com/products/distribution)",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyMustang-Dev/Course-Recommendation-System.git"
+  },
+  "keywords": [
+    "[\"python\"",
+    "\"sklearn\"",
+    "\"nltk\"",
+    "\"recommendation",
+    "system\"]"
+  ],
+  "author": "\"Aditya Mishra\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoyMustang-Dev/Course-Recommendation-System/issues"
+  },
+  "homepage": "https://github.com/RoyMustang-Dev/Course-Recommendation-System#readme"
+}
