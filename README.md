@@ -11,5 +11,12 @@
 ### Creata a New Environment and Activate!!
 
 ```
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.9 -y
+conda activate venv/
+```
+
+### Install all the Required Libraries!!
+
+```
+pip install -r requirements.txt
 ```
